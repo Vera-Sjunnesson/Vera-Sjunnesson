@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 🌺
 
-**I'm Vera and I'm a frontend developer!**
+I'm Vera and I'm a frontend developer!
 
 🐨 Get in touch:
 vera@verasjunnesson.com or connect with me on [LinkedIn](https://www.linkedin.com/in/vera-sjunnesson/ "My LinkedIn")
