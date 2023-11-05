@@ -3,8 +3,7 @@
 **I'm Vera and I'm a frontend developer!**
 
 🐨 Get in touch:
-vera@verasjunnesson.com
-[Connect with me on LinkedIn](https://www.linkedin.com/in/vera-sjunnesson/ "My LinkedIn")
+vera@verasjunnesson.com or connect with me on [LinkedIn](https://www.linkedin.com/in/vera-sjunnesson/ "My LinkedIn")
 
 <!--
 **Vera-Sjunnesson/Vera-Sjunnesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
