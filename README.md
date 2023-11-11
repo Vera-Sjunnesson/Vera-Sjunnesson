@@ -5,8 +5,7 @@
 🍅 Currently founding and developing a dance community forum\
 🍅 Currently learning databases, TypeScript and PHP\
 🍅 How to reach me: vera@verasjunnesson.com and [LinkedIn](https://www.linkedin.com/in/vera-sjunnesson/ "My LinkedIn")\
-🍅 **[My portfolio](https://tech.verasjunnesson.com/ "Vera's portfolio")**
-
+🍅 **[My portfolio](https://tech.verasjunnesson.com/ "Vera's portfolio")**\
 \
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
