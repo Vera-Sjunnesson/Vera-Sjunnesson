@@ -1,9 +1,9 @@
 ### Hi there 	🍅 
 
-**I'm Vera and I'm a frontend developer!**__
-🍅 Currently founding and developing a tango community platform__
-🍅 Currently learning databases, TypeScript and PHP__
-🍅 How to reach me: vera@verasjunnesson.com and [LinkedIn](https://www.linkedin.com/in/vera-sjunnesson/ "My LinkedIn")__
+**I'm Vera and I'm a frontend developer!**\
+🍅 Currently founding and developing a tango community platform\
+🍅 Currently learning databases, TypeScript and PHP\
+🍅 How to reach me: vera@verasjunnesson.com and [LinkedIn](https://www.linkedin.com/in/vera-sjunnesson/ "My LinkedIn")\
 🍅 **[My portfolio](https://tech.verasjunnesson.com/ "Vera's portfolio")**
 
 <!--
