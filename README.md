@@ -1,4 +1,4 @@
-### Hi there 🌸
+### Hi there
 
 **I'm Vera and I'm a frontend developer!**\
 🍅 Currently founding and developing a tango community platform\
